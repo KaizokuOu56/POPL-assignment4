@@ -101,5 +101,3 @@ java -jar target\popl-assignment4-0.1.0-SNAPSHOT-shaded.jar --use-sample strings
 # Sort a file
 java -jar target\popl-assignment4-0.1.0-SNAPSHOT-shaded.jar --source file --path somefile.txt --op sort
 ```
-
-If you want me to produce a native installer (`.exe`) now, tell me to proceed and confirm you're OK with a platform-specific artifact for Windows only.
