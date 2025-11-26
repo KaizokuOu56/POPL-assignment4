@@ -13,6 +13,9 @@ Run (jar)
 Run the included shaded JAR directly (requires Java on the target machine):
 ```
 java -jar dir\popl-assignment4-0.1.0-SNAPSHOT-shaded.jar --use-sample strings --op count
+
+Run all tests on 2 default data files
+java -jar dir\popl-assignment4-0.1.0-SNAPSHOT-shaded.jar --run-all-samples
 ```
 
 
